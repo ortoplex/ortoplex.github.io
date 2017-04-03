@@ -19,3 +19,43 @@ p {
 .tratamientos {
   padding-left: 50px;
 }
+
+.goodstuff {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.before_after_wrapper {
+  padding-top: 50px;
+  text-align: center;
+}
+
+.before_after_wrapper h1 {
+    font-size: 44px;
+    line-height: 28px;
+    font-weight: bold;
+}
+
+.before_after_wrapper span {
+  color: #00adef
+}
+
+.before_after_wrapper h2 {
+    margin: 0;
+    color: #2d3e50;
+    font-size: 36px;
+    line-height: 28px;
+    font-weight: bold;
+}
+
+.caso {
+  margin-top: 25px;
+  padding-top: 20px;
+  height: 400px;
+  background-color: #ededed;
+}
+
+.caso-light {
+  padding-top: 20px;
+  height: 400px;
+}
