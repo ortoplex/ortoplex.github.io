@@ -1,0 +1,49 @@
+Ortoplex_files/color.css:.th-navigation > ul > li:hover > a,
+Ortoplex_files/color.css:.th-navigation > ul > li.th-active > a,
+Ortoplex_files/color.css:.th-headerthree .th-navigation > ul > li > a:before,
+Ortoplex_files/responsive.css:	.th-navigation > ul > li {padding: 13px 15px;}
+Ortoplex_files/responsive.css:	.th-headerthree .th-navigation > ul > li > a {padding: 0 15px 39px;}
+Ortoplex_files/responsive.css:	.th-navigationarea{background: #2d3e50;}
+Ortoplex_files/responsive.css:	.th-navigation > ul > li{
+Ortoplex_files/responsive.css:	.th-navigation > ul > li:first-child{padding: 13px 15px;}
+Ortoplex_files/responsive.css:	.th-navigation > ul > li:first-child > a{padding: 10px;}
+Ortoplex_files/responsive.css:	.th-headerthree .th-navigationarea{background: transparent;}
+Ortoplex_files/responsive.css:	.th-headerthree .th-navigationarea{
+Ortoplex_files/responsive.css:	.th-headerthree .th-navigation{
+Ortoplex_files/responsive.css:	.th-headerthree .th-navigation > ul > li > a{
+Ortoplex_files/responsive.css:	.th-headerthree .th-navigation > ul > li{
+Ortoplex_files/responsive.css:	.th-headerthree .th-navigation > ul > li + li{border-top: 1px solid #ddd;}
+Ortoplex_files/responsive.css:	.th-navigationarea{position: relative;}
+Ortoplex_files/responsive.css:	.th-headerthree .th-navigationarea{position: static;}
+Ortoplex_files/responsive.css:	.th-navigation{
+Ortoplex_files/responsive.css:	.th-navigation > ul > li > a{
+Ortoplex_files/responsive.css:	.th-navigation > ul > li{
+Ortoplex_files/responsive.css:	.th-navigation > ul > li + li{border-top: 1px solid #ddd;}
+Ortoplex_files/responsive.css:	.th-headerthree .th-navigationarea {padding: 18px 0;}
+Ortoplex_files/alo.css:.th-navigationarea {
+Ortoplex_files/style.css:.th-navigationarea{
+Ortoplex_files/style.css:.th-navigation{
+Ortoplex_files/style.css:.th-navigation ul{
+Ortoplex_files/style.css:.th-navigation > ul{
+Ortoplex_files/style.css:.th-navigation ul li{
+Ortoplex_files/style.css:.th-navigation > ul > li{
+Ortoplex_files/style.css:.th-navigation > ul > li:first-child,
+Ortoplex_files/style.css:.th-navigation > ul > li:first-child > a{padding-left: 0;}
+Ortoplex_files/style.css:.th-navigation ul li a{
+Ortoplex_files/style.css:.th-navigation > ul > li > a{color: #fff;}
+Ortoplex_files/style.css:.th-navigation .th-menudropdown li a{
+Ortoplex_files/style.css:.th-navigation .th-menudropdown li a i{
+Ortoplex_files/style.css:.th-headerthree .th-navigation > ul > li:last-child ul ul{
+Ortoplex_files/style.css:.th-headerthree .th-navigationarea{
+Ortoplex_files/style.css:.th-headerthree .th-navigation > ul > li{padding: 0;}
+Ortoplex_files/style.css:.th-headerthree .th-navigation > ul > li > a{
+Ortoplex_files/style.css:.th-headerthree .th-navigation > ul > li > a:before{
+Ortoplex_files/style.css:.th-headerthree .th-navigation > ul > li.th-active > a:before,
+Ortoplex_files/style.css:.th-headerthree .th-navigation > ul > li:hover > a:before,
+Ortoplex_files/style.css:.th-headerthree .th-navigation > ul > li > a:hover:before{width: 100%;}
+Ortoplex_files/style.css:.th-navigation > ul > li:last-child ul{
+Ortoplex_files/style.css:.th-navigation > ul > li:last-child ul ul{left: 100%;}
+index.html:        <div class="th-navigationarea">
+index.html:                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#th-navigation" aria-expanded="false">
+index.html:                      <span class="sr-only">Toggle navigation</span>
+index.html:                  <div id="th-navigation" class="collapse navbar-collapse th-navigation">

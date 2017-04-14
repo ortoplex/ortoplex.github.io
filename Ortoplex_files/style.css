@@ -880,7 +880,7 @@ body.th-home .th-main{padding: 0;}
 	float: left;
 }
 .th-nav{
-	width: 855px;
+	width: 882px;
 	z-index: 2;
 	height: 62px;
 	float: left;
@@ -907,7 +907,7 @@ body.th-home .th-main{padding: 0;}
 	transform: skewX(-15deg);
 }
 .th-navigation{
-	width: 100%;
+	width: 90%;
 	float: left;
 	padding: 0;
 }
@@ -916,7 +916,7 @@ body.th-home .th-main{padding: 0;}
 	line-height: inherit;
 }
 .th-navigation > ul{
-	width: 100%;
+	width: 190%;
 	float: left;
 }
 .th-navigation ul li{
@@ -1009,7 +1009,7 @@ body.th-home .th-main{padding: 0;}
 }
 .th-widgetsearch{
 	z-index: 1;
-	width: 25%;
+	width: 20%;
 	float: left;
 	position: relative;
 	padding: 11px 0 11px 15px;
